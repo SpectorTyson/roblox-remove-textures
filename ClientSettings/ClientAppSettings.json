@@ -119,7 +119,7 @@
     "FFlagFacialAnimationStreamingServiceUniverseSettingsEnableAudio": "False",
     "FFlagRenderPerformanceTelemetry": "False",
     "DFLogHttpTrace": "0",
-    "FFlagDebugDisplayFPS": "False",
+    "FFlagDebugDisplayFPS": "True",
     "FFlagTrackPlaceIdForCrashEnabled": "False",
     "DFFlagAvatarChatServiceUserPermissionsAudioEligible": "False",
     "FFlagVoiceChatServiceManagerUseAvatarChat": "False",
